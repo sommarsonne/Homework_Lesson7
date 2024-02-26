@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShopInventory2/1.0.0": {
+        "runtime": {
+          "ShopInventory2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopInventory2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

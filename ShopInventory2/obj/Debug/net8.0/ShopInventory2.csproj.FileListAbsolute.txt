@@ -1,0 +1,14 @@
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.GeneratedMSBuildEditorConfig.editorconfig
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.AssemblyInfoInputs.cache
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.AssemblyInfo.cs
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.csproj.CoreCompileInputs.cache
+M:\Repos\HomeworkETC\ShopInventory2\bin\Debug\net8.0\ShopInventory2.exe
+M:\Repos\HomeworkETC\ShopInventory2\bin\Debug\net8.0\ShopInventory2.deps.json
+M:\Repos\HomeworkETC\ShopInventory2\bin\Debug\net8.0\ShopInventory2.runtimeconfig.json
+M:\Repos\HomeworkETC\ShopInventory2\bin\Debug\net8.0\ShopInventory2.dll
+M:\Repos\HomeworkETC\ShopInventory2\bin\Debug\net8.0\ShopInventory2.pdb
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.dll
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\refint\ShopInventory2.dll
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.pdb
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ShopInventory2.genruntimeconfig.cache
+M:\Repos\HomeworkETC\ShopInventory2\obj\Debug\net8.0\ref\ShopInventory2.dll
