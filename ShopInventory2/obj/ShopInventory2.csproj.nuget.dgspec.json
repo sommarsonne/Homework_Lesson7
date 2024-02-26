@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Repos\\HomeworkETC\\ShopInventory2\\ShopInventory2.csproj": {}
+    "M:\\Repos\\Homework_Lesson7\\ShopInventory2\\ShopInventory2.csproj": {}
   },
   "projects": {
-    "M:\\Repos\\HomeworkETC\\ShopInventory2\\ShopInventory2.csproj": {
+    "M:\\Repos\\Homework_Lesson7\\ShopInventory2\\ShopInventory2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Repos\\HomeworkETC\\ShopInventory2\\ShopInventory2.csproj",
+        "projectUniqueName": "M:\\Repos\\Homework_Lesson7\\ShopInventory2\\ShopInventory2.csproj",
         "projectName": "ShopInventory2",
-        "projectPath": "M:\\Repos\\HomeworkETC\\ShopInventory2\\ShopInventory2.csproj",
+        "projectPath": "M:\\Repos\\Homework_Lesson7\\ShopInventory2\\ShopInventory2.csproj",
         "packagesPath": "C:\\Users\\cookm\\.nuget\\packages\\",
-        "outputPath": "M:\\Repos\\HomeworkETC\\ShopInventory2\\obj\\",
+        "outputPath": "M:\\Repos\\Homework_Lesson7\\ShopInventory2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

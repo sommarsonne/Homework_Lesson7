@@ -139,7 +139,7 @@ namespace InventoryApp
             {
                 Console.WriteLine($"Наименование: {item.name}, Цена: {item.price}");
             }
-            Console.WriteLine($"Общее количество товаров: {CountItems()}, Общая цена: {CalculateTotalPrice()} рублей.");
+            Console.WriteLine($"Общее количество товаров: {CountItems()}, Общая цена: {CalculateTotalPrice()} RUB.");
         }
     }
 }
